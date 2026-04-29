@@ -1,0 +1,6 @@
+[2026-04-20 09:30:15] Market data updated (BTC/USDT)
+[2026-04-20 09:30:16] Strategy signal generated (confidence: 0.82)
+[2026-04-20 09:30:17] Risk check passed (low risk)
+[2026-04-20 09:30:18] Executed LONG order (0.5 BTC)
+[2026-04-20 10:15:22] Stop-loss triggered
+[2026-04-20 10:15:23] Position closed
